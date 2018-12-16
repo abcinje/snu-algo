@@ -7,7 +7,9 @@ make
 ```
 
 ## How to run
-`rdselect` finds i-th smallest element in an array by randomized and deterministic selection algorithms. The index starts from 1. It prints the result and runtime of each algorithm. Run `rdselect` by this command:
+`rdselect` finds i-th smallest element in an array by randomized and deterministic selection algorithms. The index starts from 1. It prints the result and runtime of each algorithm.
+
+Run `rdselect` by this command:
 ```
 ./rdselect <index> <input file>
 ```
